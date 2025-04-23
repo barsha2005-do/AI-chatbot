@@ -1,0 +1,25 @@
+#chatbox {
+    width: 400px;
+    margin: 40px auto;
+    font-family: Arial;
+  }
+  
+  #chat {
+    border: 1px solid #ccc;
+    height: 300px;
+    overflow-y: auto;
+    padding: 10px;
+    background: #f9f9f9;
+    margin-bottom: 10px;
+  }
+  
+  #userInput {
+    width: 75%;
+    padding: 8px;
+  }
+  
+  button {
+    width: 20%;
+    padding: 8px;
+  }
+  
